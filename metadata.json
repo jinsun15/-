@@ -1,0 +1,5 @@
+{
+  "name": "온가족 가계도",
+  "description": "가족 히스토리를 입력하면 가계도를 도식화하고 가족 관계와 문제를 분석해주는 스마트 가계도 서비스",
+  "requestFramePermissions": []
+}
